@@ -1,6 +1,6 @@
 {  
-  "name": "My PWA",  
-  "short_name": "My PWA",  
+  "name": "MANBOU APRI",  
+  "short_name": "manbou",  
   "icons": [    
     {  
       "src": "/demo-my-pwa/icon_192x192.png",  
